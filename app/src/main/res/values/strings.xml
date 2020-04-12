@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Lister</string>
+    <string name="search_bar">Search For A Book</string>
+    <string name="search_button">Search</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_books">No Books</string>
+</resources>
